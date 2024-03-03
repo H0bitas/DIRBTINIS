@@ -9,7 +9,7 @@ body{
 	background: linear-gradient(90deg,
 				rgba(214, 250, 216,0.08),
 				rgba(235, 253,239,0.1)),
-				url('Nuotraukos/Dirbtinis intelektas.jpg');
+				url('Dirbtinis intelektas.jpg');
 	background-size: cover;
 	background-position: top;
 }
